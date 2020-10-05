@@ -299,3 +299,184 @@ http://23.237.173.123:25461/tvplayerappk/v4v5cv4sd1f4gd4fv1cfs/147
 http://23.237.173.123:25461/tvplayerappk/v4v5cv4sd1f4gd4fv1cfs/148
 #EXTINF:-1 tvg-id="" tvg-name="Caracol TV" tvg-logo="" group-title="Live TV",Caracol TV
 http://23.237.173.123:25461/tvplayerappk/v4v5cv4sd1f4gd4fv1cfs/149
+#EXTINF:-1 group-title="eldukedelasapuesta IPTV", Gerado por eldukedelasapuesta 
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:2008_AETV_Logo.png" group-title="Unsorted", A&E
+http://23.237.54.42/hls/A-AND-EMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Animal_Planet_logo_(black_and_green_with_TM).png" group-title="Unsorted", ANIMAL PLANET
+http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indulgexpress.com/uploads/user/imagelibrary/2017/11/1/original/AXN-India.jpg" group-title="Unsorted", AXN
+http://23.237.54.42/hls/AXNMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/azteca-mundo.jpg" group-title="Unsorted", AZMUNDO
+http://23.237.54.42/hls/AZMUNDOMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="Unsorted", AZTECA UNO
+http://23.237.54.42/hls/AZTECA1MX.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Boomerang.png" group-title="Unsorted", BOOMERANG
+http://23.237.54.42/hls/BOOMERANGMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/1/n/L/0/A/F/white-numeral-5-in-red-circle-md.png" group-title="Unsorted", CANAL 5
+http://23.237.54.42/hls/CANAL5MX.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Cartoon_Network_2004_logo.jpg" group-title="Unsorted", CARTOON NETWOR
+http://23.237.54.42/hls/CARTOONNETWORKMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/CINECANAL.png" group-title="Unsorted", CINECANAL
+http://23.237.54.42/hls/CINECANALMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/CINEMAX_logo.png" group-title="Unsorted", CINEMAX
+http://23.237.54.42/hls/CINEMAXMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Casi_discovery_channel.jpg" group-title="Unsorted", DISCOVERI CHANEL
+http://23.237.54.42/hls/DISCOVERYCHANNELMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Discovery_kids_logo.png" group-title="Unsorted", DISCOVERY KIDS
+http://23.237.54.42/hls/DISCOVERYKIDSMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/120px-Discovery_Turbo.png" group-title="Unsorted", DISCOVERY TURBO
+http://23.237.54.42/hls/DISCOVERYTURBOHDMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Discovery_science.png/120px-Discovery_science.png" group-title="Unsorted", DISCOVRY SCIENCIE
+http://23.237.54.42/hls/DISCOVERYSCIENCEMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISNET JUNIOR
+http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Unsorted", DISNEY CHANNEL
+http://23.237.54.42/hls/DISNEYCHANNELMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Unsorted", DISNEY XD
+http://23.237.54.42/hls/DISNEYXDMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISTRITOCOMEDIA
+http://23.237.54.42/hls/DISTRITOCOMEDIAMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN
+http://23.237.54.42/hls/ESPNMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 2
+http://23.237.54.42/hls/ESPN2MX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 3
+http://23.237.54.42/hls/ESPN3MX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FORO TV
+http://23.237.54.42/hls/FOROTVMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX
+http://23.237.54.42/hls/FOXMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX ACTION
+http://23.237.54.42/hls/FOXACTIONMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX CINEMA
+http://23.237.54.42/hls/FOXCINEMAMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX MOVIES
+http://23.237.54.42/hls/FOXMOVIESMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SERIES
+http://23.237.54.42/hls/FOXSERIESMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOXSPORTS 2
+http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOXSPORTS 3
+http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX
+http://23.237.54.42/hls/FXMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GALAVISION
+http://23.237.32.130/hls/GALAVISION.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLDEN
+http://23.237.54.42/hls/GOLDENMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLDEN EDGE
+http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLDEN PLUS
+http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOURMET
+http://23.237.54.42/hls/GOURMETMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HISTORY
+http://23.237.54.42/hls/HISTORYMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ID
+http://23.237.54.42/hls/INVESTIGATIONDISCOVERYMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", IMAGEN TV
+http://23.237.54.42/hls/IMAGENTVMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LAS ESTRELLAS
+http://23.237.54.42/hls/LASESTRELLASMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV
+http://23.237.54.42/hls/MTVMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NAT GEO
+http://23.237.54.42/hls/NATGEOMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NATGEO KIDS
+http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NATGEO WILL
+http://23.237.54.42/hls/NATGEOWILDMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NICK
+http://23.237.54.42/hls/NICKMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NICK JR
+http://23.237.54.42/hls/NICKJUNIORMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NICKTOONS
+http://23.237.54.42/hls/NICKTOONSMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PARAMOUNT
+http://23.237.54.42/hls/PARAMOUNTCHANNELMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY
+http://23.237.54.42/hls/SONYMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPACE
+http://23.237.54.42/hls/SPACEMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SYFY
+http://23.237.54.42/hls/SYFYMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TBS
+http://23.237.54.42/hls/TBSMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TCM
+http://23.237.54.42/hls/TCMMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Animal_Planet_logo_(black_and_green_with_TM).png" group-title="Unsorted", ANIMAL PLANET
+http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indulgexpress.com/uploads/user/imagelibrary/2017/11/1/original/AXN-India.jpg" group-title="Unsorted", AXN
+http://23.237.54.42/hls/AXNMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/azteca-mundo.jpg" group-title="Unsorted", AZMUNDO
+http://23.237.54.42/hls/AZMUNDOMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="Unsorted", AZTECA UNO
+http://23.237.54.42/hls/AZTECA1MX.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Boomerang.png" group-title="Unsorted", BOOMERANG
+http://23.237.54.42/hls/BOOMERANGMX.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/1/n/L/0/A/F/white-numeral-5-in-red-circle-md.png" group-title="Unsorted", CANAL 5
+http://23.237.54.42/hls/CANAL5MX.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Cartoon_Network_2004_logo.jpg" group-title="Unsorted", CARTOON NETWOR
+http://23.237.54.42/hls/CARTOONNETWORKMX.m3u8
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/CINECANAL.png" group-title="Unsorted", CINECANAL
+http://23.237.54.42/hls/CINECANALMX.m3u8
