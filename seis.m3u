@@ -1,566 +1,518 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : A&E" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/aande.png" group-title="LATINO TV",LATINO : A&E
-http://mains.vip:2086/craigg/1Lurn7m3F1/98773
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ADN 40" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/46391/adn40tv.png" group-title="LATINO TV",LATINO : ADN 40
-http://mains.vip:2086/craigg/1Lurn7m3F1/92629
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AMC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/amc.png" group-title="LATINO TV",LATINO : AMC
-http://mains.vip:2086/craigg/1Lurn7m3F1/98772
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/America_2_logo.png/100px-America_2_logo.png" group-title="LATINO TV",LATINO : AMERICA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92628
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ANIMAL PLANET" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/animalplanet-19.png" group-title="LATINO TV",LATINO : ANIMAL PLANET
-http://mains.vip:2086/craigg/1Lurn7m3F1/98774
-#EXTINF:-1 tvg-id="antena3.mx" tvg-name="LATINO : ANTENA 3" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/24802/antena3tvchannel.png" group-title="LATINO TV",LATINO : ANTENA 3
-http://mains.vip:2086/craigg/1Lurn7m3F1/66548
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ASPIRE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/e89451d4-14d5-4a67-a065-8b9a00cd1f17.png" group-title="LATINO TV",LATINO : ASPIRE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66549
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AXN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/axn.png" group-title="LATINO TV",LATINO : AXN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92627
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AYM SPORTS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/165104_149063901812135_6685373_n.jpg/revision/latest/scale-to-width-down/340?cb=20130608195911" group-title="LATINO TV",LATINO : AYM SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92626
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZ CORAZON" tvg-logo="https://www.supercable.com.pe/uploads/5/3/5/0/53505143/_5362891.jpg" group-title="LATINO TV",LATINO : AZ CORAZON
-http://mains.vip:2086/craigg/1Lurn7m3F1/92625
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZTECA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AZSINCOPY.png/220px-AZSINCOPY.png" group-title="LATINO TV",LATINO : AZTECA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66551
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZTECA UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/AztecaUno2020.png/220px-AztecaUno2020.png" group-title="LATINO TV",LATINO : AZTECA UNO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92623
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : BABY TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/36131/babytelevision.png" group-title="LATINO TV",LATINO : BABY TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92622
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : BANDAMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Bandamax_logo.jpg/220px-Bandamax_logo.jpg" group-title="LATINO TV",LATINO : BANDAMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/66552
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : BLOOMBERG" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bloomberg.png" group-title="LATINO TV",LATINO : BLOOMBERG
-http://mains.vip:2086/craigg/1Lurn7m3F1/92620
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : BOOMERANG" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/boomerang.png" group-title="LATINO TV",LATINO : BOOMERANG
-http://mains.vip:2086/craigg/1Lurn7m3F1/92619
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CANAL 22 INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/220px-Logo_XEIMT-TV.svg.png" group-title="LATINO TV",LATINO : CANAL 22 INTERNACIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66554
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CANAL ANTIGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_antigua_logo.png/115px-Canal_antigua_logo.png" group-title="LATINO TV",LATINO : CANAL ANTIGUA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92618
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CANAL DE LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/LasEstrellas2017.jpeg/200px-LasEstrellas2017.jpeg" group-title="LATINO TV",LATINO : CANAL DE LAS ESTRELLAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92617
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CARACOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/CaracolTV2019.png/220px-CaracolTV2019.png" group-title="LATINO TV",LATINO : CARACOL TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66556
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CARTOON NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cartoonnetwork.png" group-title="LATINO TV",LATINO : CARTOON NETWORK
-http://mains.vip:2086/craigg/1Lurn7m3F1/98775
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CENTRO AMERICA TV" tvg-logo="https://seeklogo.com/images/C/centroamerica-tv-logo-340A62256A-seeklogo.com.png" group-title="LATINO TV",LATINO : CENTRO AMERICA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66557
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/230px-CGTN.svg.png" group-title="LATINO TV",LATINO : CGTN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92614
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE ESTELAR" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/22247/cineestelartv.png" group-title="LATINO TV",LATINO : CINE ESTELAR
-http://mains.vip:2086/craigg/1Lurn7m3F1/66558
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE MEXICANO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/28477/cinemexicanotv.png" group-title="LATINO TV",LATINO : CINE MEXICANO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66559
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE NOSTALGIA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/13007/cinenostalgiatv.png" group-title="LATINO TV",LATINO : CINE NOSTALGIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66560
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Cinesony.png" group-title="LATINO TV",LATINO : CINE SONY
-http://mains.vip:2086/craigg/1Lurn7m3F1/66561
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINEMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" group-title="LATINO TV",LATINO : CINEMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92613
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CNN EN ESPANOL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnn.png" group-title="LATINO TV",LATINO : CNN EN ESPANOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66553
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CNN INTERNACIONAL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnn.png" group-title="LATINO TV",LATINO : CNN INTERNACIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92611
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : COMEDY CENTRAL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/comedycentral.png" group-title="LATINO TV",LATINO : COMEDY CENTRAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/98776
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/220px-De_pelicula_logo.png" group-title="LATINO TV",LATINO : DE PELICULA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66563
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DE PELICULA CLASICO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/13674/dpclasicotv.png" group-title="LATINO TV",LATINO : DE PELICULA CLASICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66564
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DESTINATION AMERICA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/destinationamerica.png" group-title="LATINO TV",LATINO : DESTINATION AMERICA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66565
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIGITAL QUINCE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Digital_Quince_1998.png/revision/latest/scale-to-width-down/266?cb=20170520162513" group-title="LATINO TV",LATINO : DIGITAL QUINCE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92609
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATINO TV",LATINO : DIRECTTV SPORT
-http://mains.vip:2086/craigg/1Lurn7m3F1/92608
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATINO TV",LATINO : DIRECTTV SPORT 1
-http://mains.vip:2086/craigg/1Lurn7m3F1/92607
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATINO TV",LATINO : DIRECTTV SPORT 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92606
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discovery-canada.png" group-title="LATINO TV",LATINO : DISCOVERY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92605
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY EN ESPANOL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3936/discesp_colordark.png" group-title="LATINO TV",LATINO : DISCOVERY EN ESPANOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66567
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY FAMILIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discoveryfamilychannel.png" group-title="LATINO TV",LATINO : DISCOVERY FAMILIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66566
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY HOME & HEALTH" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/DISCHH.png" group-title="LATINO TV",LATINO : DISCOVERY HOME & HEALTH
-http://mains.vip:2086/craigg/1Lurn7m3F1/92603
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY ID" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/1161/idtv.png" group-title="LATINO TV",LATINO : DISCOVERY ID
-http://mains.vip:2086/craigg/1Lurn7m3F1/98777
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY KIDS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/discoverykidslatinamerica.png" group-title="LATINO TV",LATINO : DISCOVERY KIDS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92602
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY SCIENCE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disc-science-canada.png" group-title="LATINO TV",LATINO : DISCOVERY SCIENCE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92601
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/250px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINO TV",LATINO : DISCOVERY THEATER
-http://mains.vip:2086/craigg/1Lurn7m3F1/92600
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY TURBO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/54216/discturbo_colordark.png" group-title="LATINO TV",LATINO : DISCOVERY TURBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92599
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY WORLD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/28441/DiscoveryWorldHD1_92x36.png" group-title="LATINO TV",LATINO : DISCOVERY WORLD
-http://mains.vip:2086/craigg/1Lurn7m3F1/66651
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISNEY CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney.png" group-title="LATINO TV",LATINO : DISNEY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92597
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISNEY JUNIOR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" group-title="LATINO TV",LATINO : DISNEY JUNIOR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92596
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISNEY XD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disneyxd.png" group-title="LATINO TV",LATINO : DISNEY XD
-http://mains.vip:2086/craigg/1Lurn7m3F1/98778
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/200px-DistritoComediaLOGO2018.png" group-title="LATINO TV",LATINO : DISTRITO COMEDIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92595
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : E!" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/17642/eentertainmenttv.png" group-title="LATINO TV",LATINO : E!
-http://mains.vip:2086/craigg/1Lurn7m3F1/98779
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ecuador_TV.jpg/250px-Ecuador_TV.jpg" group-title="LATINO TV",LATINO : ECUADOR TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66569
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ECUAVISA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/120px-Logo_Ecuavisa.svg.png" group-title="LATINO TV",LATINO : ECUAVISA INTERNACIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66570
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : EL GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/100px-Elgourmetlogo2015.png" group-title="LATINO TV",LATINO : EL GOURMET
-http://mains.vip:2086/craigg/1Lurn7m3F1/92594
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ENLACE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Enlace_TBN_USA.png" group-title="LATINO TV",LATINO : ENLACE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66571
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espn.png" group-title="LATINO TV",LATINO : ESPN
-http://mains.vip:2086/craigg/1Lurn7m3F1/98780
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espn2.png" group-title="LATINO TV",LATINO : ESPN 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/98781
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/200px-ESPN3_Logo.png" group-title="LATINO TV",LATINO : ESPN 3
-http://mains.vip:2086/craigg/1Lurn7m3F1/98782
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN DEPORTES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/9976/espndeporteschannel.png" group-title="LATINO TV",LATINO : ESPN DEPORTES
-http://mains.vip:2086/craigg/1Lurn7m3F1/66568
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/250px-Estrella_TV_2020_Logo.svg.png" group-title="LATINO TV",LATINO : ESTRELLA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66572
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fuse_Music.svg/220px-Fuse_Music.svg.png" group-title="LATINO TV",LATINO : FM
-http://mains.vip:2086/craigg/1Lurn7m3F1/66573
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOOD NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/foodtv.png" group-title="LATINO TV",LATINO : FOOD NETWORK
-http://mains.vip:2086/craigg/1Lurn7m3F1/98783
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/220px-Logo-ForoTV-2016.png" group-title="LATINO TV",LATINO : FORO TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66574
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/foxcable.png" group-title="LATINO TV",LATINO : FOX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98784
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX ACTION" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/20300/foxpremiumactionchannel.png" group-title="LATINO TV",LATINO : FOX ACTION
-http://mains.vip:2086/craigg/1Lurn7m3F1/92591
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX CINEMA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/4/foxchannel.png" group-title="LATINO TV",LATINO : FOX CINEMA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66661
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX CLASSICS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/FOX_Premium_Classics_%282018%29.svg/revision/latest/scale-to-width-down/220?cb=20200508214648" group-title="LATINO TV",LATINO : FOX CLASSICS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92589
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX COMEDY" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_premium_comedy_us.png" group-title="LATINO TV",LATINO : FOX COMEDY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92588
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX DEPORTES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/47620/foxdeportestv.png" group-title="LATINO TV",LATINO : FOX DEPORTES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92587
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX FAMILY" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/28857/foxpremiumfamilytv.png" group-title="LATINO TV",LATINO : FOX FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/98785
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/150px-FOXPremium2018.png" group-title="LATINO TV",LATINO : FOX MOVIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92586
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/150px-FOXPremium2018.png" group-title="LATINO TV",LATINO : FOX SERIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92585
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fs1.png" group-title="LATINO TV",LATINO : FOX SPORTS 1
-http://mains.vip:2086/craigg/1Lurn7m3F1/92584
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/foxsports2.png" group-title="LATINO TV",LATINO : FOX SPORTS 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92583
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/250?cb=20160412195331" group-title="LATINO TV",LATINO : FOX SPORTS 3
-http://mains.vip:2086/craigg/1Lurn7m3F1/92582
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/200px-FOX_Sports_logo.svg.png" group-title="LATINO TV",LATINO : FOX SPORTS PREMIUM
-http://mains.vip:2086/craigg/1Lurn7m3F1/92581
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FX" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/24368/fxchanneltv_colordark.png" group-title="LATINO TV",LATINO : FX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98786
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : FXM" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/27327/fxmtelevision.png" group-title="LATINO TV",LATINO : FXM
-http://mains.vip:2086/craigg/1Lurn7m3F1/98787
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/150px-Galavision_Logo_2013.svg.png" group-title="LATINO TV",LATINO : GALAVISION
-http://mains.vip:2086/craigg/1Lurn7m3F1/66578
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GARAGE TV" tvg-logo="http://elgarage.com/wp-content/uploads/2019/04/Logo-GARAGE-TV-sin-marco.png" group-title="LATINO TV",LATINO : GARAGE TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92579
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/220px-Glitzlogo.png" group-title="LATINO TV",LATINO : GLITZ
-http://mains.vip:2086/craigg/1Lurn7m3F1/92578
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GOL TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="LATINO TV",LATINO : GOL TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66576
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2ENF0lKvofYW0uUjzRWM7mX3rN6FXtmY0ms-IvNIUMmJzhk2o&usqp=CAU" group-title="LATINO TV",LATINO : GOLDEN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66670
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GOLDEN EDGE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest/scale-to-width-down/340?cb=20120110075418" group-title="LATINO TV",LATINO : GOLDEN EDGE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92575
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GSN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/gsn-2018.png" group-title="LATINO TV",LATINO : GSN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66577
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : GUATEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Guatevisionlogo.JPG/230px-Guatevisionlogo.JPG" group-title="LATINO TV",LATINO : GUATEVISION
-http://mains.vip:2086/craigg/1Lurn7m3F1/92574
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png" group-title="LATINO TV",LATINO : HBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92572
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo2.png" group-title="LATINO TV",LATINO : HBO 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92571
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO FAMILY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-family.png" group-title="LATINO TV",LATINO : HBO FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92570
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO LATINO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo_latino.png" group-title="LATINO TV",LATINO : HBO LATINO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66579
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO PLUS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3996/hbopluschannel.png" group-title="LATINO TV",LATINO : HBO PLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92569
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="LATINO : HBO SIGNATURE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-signature.png" group-title="LATINO TV",LATINO : HBO SIGNATURE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66678
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HISTORY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history.png" group-title="LATINO TV",LATINO : HISTORY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92567
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HISTORY 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history-2-canada.png" group-title="LATINO TV",LATINO : HISTORY 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92566
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HISTORY EN ESPANOL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/43150/historyenespanoltv.png" group-title="LATINO TV",LATINO : HISTORY EN ESPANOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66582
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HITN" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/8377/hitnchannel.png" group-title="LATINO TV",LATINO : HITN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66580
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HLN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hln.png" group-title="LATINO TV",LATINO : HLN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66581
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : HOLA TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/45869/holatelevision.png" group-title="LATINO TV",LATINO : HOLA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66583
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : LAS ESTRELLAS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/5019/lasestrellas_colordark.png" group-title="LATINO TV",LATINO : LAS ESTRELLAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66619
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : LIFETIME" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lifetime19.png" group-title="LATINO TV",LATINO : LIFETIME
-http://mains.vip:2086/craigg/1Lurn7m3F1/92563
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MAS CHIC" tvg-logo="https://maschic.com/img/logo.jpg" group-title="LATINO TV",LATINO : MAS CHIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92562
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MAX PRIME" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/340?cb=20200508220352" group-title="LATINO TV",LATINO : MAX PRIME
-http://mains.vip:2086/craigg/1Lurn7m3F1/92560
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MAX UP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/69?cb=20200508220707" group-title="LATINO TV",LATINO : MAX UP
-http://mains.vip:2086/craigg/1Lurn7m3F1/92559
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MILENIO TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/22275/mileniotvchannel.png" group-title="LATINO TV",LATINO : MILENIO TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92558
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MOVIEMAX" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/21358/moviemaxtv.png" group-title="LATINO TV",LATINO : MOVIEMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92556
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MOVIEPLEX" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/MOVIEPLEX.png" group-title="LATINO TV",LATINO : MOVIEPLEX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92555
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MTV HITS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/25814/mtvhitstv.png" group-title="LATINO TV",LATINO : MTV HITS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92554
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : MULTIMEDIOS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/23322/multimedio_light.png" group-title="LATINO TV",LATINO : MULTIMEDIOS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66586
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NAT GEO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ngeog-copy.png" group-title="LATINO TV",LATINO : NAT GEO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92553
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NAT GEO MUNDO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/29849/natgeomundotv.png" group-title="LATINO TV",LATINO : NAT GEO MUNDO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66588
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NAT GEO WILD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/24417/nationalgeographicwildtv.png" group-title="LATINO TV",LATINO : NAT GEO WILD
-http://mains.vip:2086/craigg/1Lurn7m3F1/98788
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NBC UNIVERSO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3861/universochannel.png" group-title="LATINO TV",LATINO : NBC UNIVERSO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66685
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NEXT TV" tvg-logo="https://nextvnews.com/wp-content/uploads/2019/03/favicon.png" group-title="LATINO TV",LATINO : NEXT TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92550
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICK 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/Nick_2_Latinoamerica.png/revision/latest/scale-to-width-down/80?cb=20160802045259" group-title="LATINO TV",LATINO : NICK 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/92549
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICK JR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nickjr.png" group-title="LATINO TV",LATINO : NICK JR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92548
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICK TOONS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nicktoons.png" group-title="LATINO TV",LATINO : NICK TOONS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92547
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICKELODEON" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nickelodeon.png" group-title="LATINO TV",LATINO : NICKELODEON
-http://mains.vip:2086/craigg/1Lurn7m3F1/92546
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NOS PAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nos_Pais_Logo.svg/200px-Nos_Pais_Logo.svg.png" group-title="LATINO TV",LATINO : NOS PAIS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92545
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NTN24" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/86545/ntn24tv_colordark.png" group-title="LATINO TV",LATINO : NTN24
-http://mains.vip:2086/craigg/1Lurn7m3F1/66587
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : NUESTRA TELE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/16257/nuestrateletelevision_colordark.png" group-title="LATINO TV",LATINO : NUESTRA TELE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66589
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : OUTERMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/outermax.png" group-title="LATINO TV",LATINO : OUTERMAX
-http://mains.vip:2086/craigg/1Lurn7m3F1/92543
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : PARAMOUNT CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/paramount.png" group-title="LATINO TV",LATINO : PARAMOUNT CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92542
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : PASIONES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/36704/pasionestelevision.png" group-title="LATINO TV",LATINO : PASIONES
-http://mains.vip:2086/craigg/1Lurn7m3F1/66590
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : PERU MAGICO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/30571/peromagicotv.png" group-title="LATINO TV",LATINO : PERU MAGICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66591
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : PROMAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Promar_TV.JPG" group-title="LATINO TV",LATINO : PROMAR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92540
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : RCN NOVELAS CO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/45667/rcnnovelastv.png" group-title="LATINO TV",LATINO : RCN NOVELAS CO
-http://mains.vip:2086/craigg/1Lurn7m3F1/86839
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : RITMOSON" tvg-logo="https://i7.pngflow.com/pngimage/141/16/png-ritmoson-latino-mexico-music-of-latin-america-television-others-miscellaneous-television-text-spanish-clipart.png" group-title="LATINO TV",LATINO : RITMOSON
-http://mains.vip:2086/craigg/1Lurn7m3F1/92539
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : RTV 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/RTV-7_Logo.svg/200px-RTV-7_Logo.svg.png" group-title="LATINO TV",LATINO : RTV 7
-http://mains.vip:2086/craigg/1Lurn7m3F1/92538
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="LATINO TV",LATINO : SHOWTIME
-http://mains.vip:2086/craigg/1Lurn7m3F1/92537
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME BEYOND" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/6069/showtimebeyondchannel.png" group-title="LATINO TV",LATINO : SHOWTIME BEYOND
-http://mains.vip:2086/craigg/1Lurn7m3F1/92536
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="LATINO TV",LATINO : SHOWTIME EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92535
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sho.png" group-title="LATINO TV",LATINO : SHOWTIME WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92534
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SONY CHANNEL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/23086/sonychanneltv.png" group-title="LATINO TV",LATINO : SONY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92533
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SPACE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/space-latam.png" group-title="LATINO TV",LATINO : SPACE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92532
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/420/starztv.png" group-title="LATINO TV",LATINO : STARZ
-http://mains.vip:2086/craigg/1Lurn7m3F1/92531
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ COMEDY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png" group-title="LATINO TV",LATINO : STARZ COMEDY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92528
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ EAST" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/420/starztv.png" group-title="LATINO TV",LATINO : STARZ EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92527
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="LATINO TV",LATINO : STARZ ENCORE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92525
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE ACTION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-action.png" group-title="LATINO TV",LATINO : STARZ ENCORE ACTION
-http://mains.vip:2086/craigg/1Lurn7m3F1/92524
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE CLASSIC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-classic.png" group-title="LATINO TV",LATINO : STARZ ENCORE CLASSIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92522
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE ESPAÑOL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/29909/starzencoreespanoltv.png" group-title="LATINO TV",LATINO : STARZ ENCORE ESPAÑOL
-http://mains.vip:2086/craigg/1Lurn7m3F1/56141
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE FAMILY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-family.png" group-title="LATINO TV",LATINO : STARZ ENCORE FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92521
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE SUSPENSE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-suspense.png" group-title="LATINO TV",LATINO : STARZ ENCORE SUSPENSE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92520
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE WESTERN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="LATINO TV",LATINO : STARZ ENCORE WESTERN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92519
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ WEST" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/420/starztv.png" group-title="LATINO TV",LATINO : STARZ WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92516
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : STUDIO UNIVERSAL" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/35256/studiouniversaltv_colordark.png" group-title="LATINO TV",LATINO : STUDIO UNIVERSAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92515
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SUR PERU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/SURPERU.png" group-title="LATINO TV",LATINO : SUR PERU
-http://mains.vip:2086/craigg/1Lurn7m3F1/66592
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : SYFY" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/9196/syfychannel.png" group-title="LATINO TV",LATINO : SYFY
-http://mains.vip:2086/craigg/1Lurn7m3F1/92514
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TBS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/410/tbschannel.png" group-title="LATINO TV",LATINO : TBS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92513
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TCM" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tcm.png" group-title="LATINO TV",LATINO : TCM
-http://mains.vip:2086/craigg/1Lurn7m3F1/92512
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEAMAZONAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/220px-Teleamazonas_Logo.png" group-title="LATINO TV",LATINO : TELEAMAZONAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92510
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Telecentro.png/300px-Telecentro.png" group-title="LATINO TV",LATINO : TELECENTRO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66597
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEFE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/3963/telefetv.png" group-title="LATINO TV",LATINO : TELEFE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66598
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="LATINO TV",LATINO : TELEMUNDO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92508
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO INTERNATIONAL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="LATINO TV",LATINO : TELEMUNDO INTERNATIONAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/92500
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="LATINO TV",LATINO : TELEMUNDO WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92492
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Telenovela_Channel_logo.jpg/240px-Telenovela_Channel_logo.jpg" group-title="LATINO TV",LATINO : TELENOVELAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92491
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/220px-Telepac%C3%ADfico.png" group-title="LATINO TV",LATINO : TELEPACIFICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/92490
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELESISTEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Telesistema_Mexicano.png/220px-Telesistema_Mexicano.png" group-title="LATINO TV",LATINO : TELESISTEMA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92489
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELESUR" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/32830/telesurchannel.png" group-title="LATINO TV",LATINO : TELESUR
-http://mains.vip:2086/craigg/1Lurn7m3F1/92488
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELETICA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/150px-Teletica.png" group-title="LATINO TV",LATINO : TELETICA 7
-http://mains.vip:2086/craigg/1Lurn7m3F1/92487
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TLC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tlc.png" group-title="LATINO TV",LATINO : TLC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92486
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TNT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tnt-16.png" group-title="LATINO TV",LATINO : TNT
-http://mains.vip:2086/craigg/1Lurn7m3F1/92485
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/150px-TNT_Series_Logo_2016.png" group-title="LATINO TV",LATINO : TNT SERIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/92484
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TOONCAST" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/TOONCAST.png" group-title="LATINO TV",LATINO : TOONCAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92482
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TR3S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Tres_2010_logo.svg/200px-MTV_Tres_2010_logo.svg.png" group-title="LATINO TV",LATINO : TR3S
-http://mains.vip:2086/craigg/1Lurn7m3F1/66600
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TRU TV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/77726/trutv.png" group-title="LATINO TV",LATINO : TRU TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92480
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png" group-title="LATINO TV",LATINO : TUDN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66593
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TV CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TVChile_logo_2016.png/200px-TVChile_logo_2016.png" group-title="LATINO TV",LATINO : TV CHILE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66594
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/TVOne_2016.png/220px-TVOne_2016.png" group-title="LATINO TV",LATINO : TV ONE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66595
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TVE" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/5056/tveintchannel.png" group-title="LATINO TV",LATINO : TVE
-http://mains.vip:2086/craigg/1Lurn7m3F1/66596
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logotipo_de_TVN.svg/75px-Logotipo_de_TVN.svg.png" group-title="LATINO TV",LATINO : TVN
-http://mains.vip:2086/craigg/1Lurn7m3F1/92478
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/200px-TyC_Sports_logo.svg.png" group-title="LATINO TV",LATINO : TYC SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66601
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ULTRA CINE" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCine_NLogo.png" group-title="LATINO TV",LATINO : ULTRA CINE
-http://mains.vip:2086/craigg/1Lurn7m3F1/98789
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ULTRA CLASICO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasico_NLogo.png" group-title="LATINO TV",LATINO : ULTRA CLASICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/98790
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ULTRA FAMILIA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamilia_NLogo.png" group-title="LATINO TV",LATINO : ULTRA FAMILIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/98791
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ULTRA FIESTA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFiestaLogoBlack.png" group-title="LATINO TV",LATINO : ULTRA FIESTA
-http://mains.vip:2086/craigg/1Lurn7m3F1/98792
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ULTRA FILM" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilm_NLogo.png" group-title="LATINO TV",LATINO : ULTRA FILM
-http://mains.vip:2086/craigg/1Lurn7m3F1/98793
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ULTRA MACHO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMacho_NLogo.png" group-title="LATINO TV",LATINO : ULTRA MACHO
-http://mains.vip:2086/craigg/1Lurn7m3F1/98794
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ULTRA MEX" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMex_NLogo.png" group-title="LATINO TV",LATINO : ULTRA MEX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98795
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ULTRA TAINMENT" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraTainment_NLogo.png" group-title="LATINO TV",LATINO : ULTRA TAINMENT
-http://mains.vip:2086/craigg/1Lurn7m3F1/98796
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="LATINO : UNIMAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="LATINO TV",LATINO : UNIMAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66719
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIMAS EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="LATINO TV",LATINO : UNIMAS EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/92475
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIMAS WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="LATINO TV",LATINO : UNIMAS WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/66602
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/200px-StudioUniversal2016.png" group-title="LATINO TV",LATINO : UNIVERSAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/66720
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVERSO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbcuniverso_logo.png" group-title="LATINO TV",LATINO : UNIVERSO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66603
-#EXTINF:-1 tvg-id="univision.us" tvg-name="LATINO : UNIVISION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="LATINO TV",LATINO : UNIVISION
-http://mains.vip:2086/craigg/1Lurn7m3F1/66722
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION (KUVN) DALLAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="LATINO TV",LATINO : UNIVISION (KUVN) DALLAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92468
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION (WLTV) FORT LAUDERDALE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="LATINO TV",LATINO : UNIVISION (WLTV) FORT LAUDERDALE
-http://mains.vip:2086/craigg/1Lurn7m3F1/92465
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION DEPORTES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/36136/tudnchannel.png" group-title="LATINO TV",LATINO : UNIVISION DEPORTES
-http://mains.vip:2086/craigg/1Lurn7m3F1/21595
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="LATINO TV",LATINO : UNIVISION EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/66604
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION TDN" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/36136/tudnchannel.png" group-title="LATINO TV",LATINO : UNIVISION TDN
-http://mains.vip:2086/craigg/1Lurn7m3F1/66723
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION TLNOVELAS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/37215/univistlnovelaschannel.png" group-title="LATINO TV",LATINO : UNIVISION TLNOVELAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66605
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION WEST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="LATINO TV",LATINO : UNIVISION WEST
-http://mains.vip:2086/craigg/1Lurn7m3F1/82066
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VENEVISION PLUS" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/VENEVISION.png" group-title="LATINO TV",LATINO : VENEVISION PLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/92462
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VEPLUS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Ve_Plus_2017.png/revision/latest/scale-to-width-down/340?cb=20170306222120" group-title="LATINO TV",LATINO : VEPLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/66606
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VH1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/vh1.png" group-title="LATINO TV",LATINO : VH1
-http://mains.vip:2086/craigg/1Lurn7m3F1/92461
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VH1 CLASSIC" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/87114/vh1classictv_colordark.png" group-title="LATINO TV",LATINO : VH1 CLASSIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/92460
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VIDEOROLA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/videorola.png" group-title="LATINO TV",LATINO : VIDEOROLA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66607
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VIENDOMOVIES" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/92066/viendomoviestv.png" group-title="LATINO TV",LATINO : VIENDOMOVIES
-http://mains.vip:2086/craigg/1Lurn7m3F1/66608
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VME" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/14033/vmetelevision.png" group-title="LATINO TV",LATINO : VME
-http://mains.vip:2086/craigg/1Lurn7m3F1/66609
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logotipo-tcs-sv.png/220px-Logotipo-tcs-sv.png" group-title="LATINO TV",LATINO : VTV
-http://mains.vip:2086/craigg/1Lurn7m3F1/92459
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : WAPA AMERICA" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/14447/wapatv_colordark.png" group-title="LATINO TV",LATINO : WAPA AMERICA
-http://mains.vip:2086/craigg/1Lurn7m3F1/66610
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png" group-title="LATINO TV",LATINO : WARNER
-http://mains.vip:2086/craigg/1Lurn7m3F1/92458
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : WE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/We_TV_logo_2014.svg/220px-We_TV_logo_2014.svg.png" group-title="LATINO TV",LATINO : WE TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/66611
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/220px-WinSports2017.png" group-title="LATINO TV",LATINO : WIN SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/98797
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : ZOOMOO" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/83910/zoomootv.png" group-title="LATINO TV",LATINO : ZOOMOO
-http://mains.vip:2086/craigg/1Lurn7m3F1/66612
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KASA) SANTA FE NEW MEXICO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KASA) SANTA FE NEW MEXICO
-http://mains.vip:2086/craigg/1Lurn7m3F1/96734
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KBLR) PARADISE NEVADA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KBLR) PARADISE NEVADA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96733
-#EXTINF:-1 tvg-id="telemundokcso.us" tvg-name="LATINO: TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96732
-#EXTINF:-1 tvg-id="telemundokdentv.us" tvg-name="LATINO: TELEMUNDO (KDEN) LONGMONT COLORADO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KDEN) LONGMONT COLORADO
-http://mains.vip:2086/craigg/1Lurn7m3F1/96731
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KFBI) MEDFORD OREGON" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KFBI) MEDFORD OREGON
-http://mains.vip:2086/craigg/1Lurn7m3F1/96729
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KFDY) LINCOLN NEBRASKA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KFDY) LINCOLN NEBRASKA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96730
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KGLA) HAMMOND LOUISIANA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KGLA) HAMMOND LOUISIANA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96728
-#EXTINF:-1 tvg-id="telemundokhrr.us" tvg-name="LATINO: TELEMUNDO (KHRR) TUCSON ARIZONA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KHRR) TUCSON ARIZONA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96727
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KNSO) MERCED CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KNSO) MERCED CALIFORNIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96726
-#EXTINF:-1 tvg-id="telemundoksts.us" tvg-name="LATINO: TELEMUNDO (KSTS) SAN JOSE CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KSTS) SAN JOSE CALIFORNIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96725
-#EXTINF:-1 tvg-id="telemundoktaz.us" tvg-name="LATINO: TELEMUNDO (KTAZ) PHOENIX ARIZONA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTAZ) PHOENIX ARIZONA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96724
-#EXTINF:-1 tvg-id="telemundoktlm.us" tvg-name="LATINO: TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96722
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KTMD) GALVESTON TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTMD) GALVESTON TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96723
-#EXTINF:-1 tvg-id="telemundoktmw.us" tvg-name="LATINO: TELEMUNDO (KTMW) SALT LAKE CITY UTAH" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTMW) SALT LAKE CITY UTAH
-http://mains.vip:2086/craigg/1Lurn7m3F1/96721
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96718
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KUTU) TULSA OKLAHOMA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KUTU) TULSA OKLAHOMA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96717
-#EXTINF:-1 tvg-id="telemundokvda.us" tvg-name="LATINO: TELEMUNDO (KVDA) SAN ANTONIO TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KVDA) SAN ANTONIO TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96715
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KVEA) CORONA CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KVEA) CORONA CALIFORNIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96716
-#EXTINF:-1 tvg-id="telemundokxtq.us" tvg-name="LATINO: TELEMUNDO (KXTQ) LUBBOCK TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KXTQ) LUBBOCK TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96713
-#EXTINF:-1 tvg-id="telemundokxtx.us" tvg-name="LATINO: TELEMUNDO (KXTX) DALLAS TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KXTX) DALLAS TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96714
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WKTB) NORCROSS GEORGIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WKTB) NORCROSS GEORGIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96712
-#EXTINF:-1 tvg-id="telemundowneu.us" tvg-name="LATINO: TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE
-http://mains.vip:2086/craigg/1Lurn7m3F1/96710
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WNJU) LINDEN NEW JERSEY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WNJU) LINDEN NEW JERSEY
-http://mains.vip:2086/craigg/1Lurn7m3F1/96711
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WRDM) HARTFORD CONNECTICUT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WRDM) HARTFORD CONNECTICUT
-http://mains.vip:2086/craigg/1Lurn7m3F1/96709
-#EXTINF:-1 tvg-id="telemundowrmd.us" tvg-name="LATINO: TELEMUNDO (WRMD) TAMPA FLORIDA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WRMD) TAMPA FLORIDA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96708
-#EXTINF:-1 tvg-id="telemundowscv.us" tvg-name="LATINO: TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96707
-#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="LATINO: TELEMUNDO (WSNS) CHICAGO ILLINOIS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WSNS) CHICAGO ILLINOIS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96706
-#EXTINF:-1 tvg-id="telemundowtmo.us" tvg-name="LATINO: TELEMUNDO (WTMO) ORLANDO FLORIDA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WTMO) ORLANDO FLORIDA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96705
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WWDT) NAPLES FLORIDA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WWDT) NAPLES FLORIDA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96704
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96703
-#EXTINF:-1 tvg-id="telemundowzdc.us" tvg-name="LATINO: TELEMUNDO (WZDC) WASHINGTON DC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/telemundo.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WZDC) WASHINGTON DC
-http://mains.vip:2086/craigg/1Lurn7m3F1/96702
-#EXTINF:-1 tvg-id="unimas66kfsf.us" tvg-name="LATINO: UNIMAS (KFSF) VALLEJO CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (KFSF) VALLEJO CALIFORNIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96751
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIMAS (KFTH) ALVIN TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (KFTH) ALVIN TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96752
-#EXTINF:-1 tvg-id="unimas4kstr.us" tvg-name="LATINO: UNIMAS (KSTR) IRVING TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (KSTR) IRVING TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96755
-#EXTINF:-1 tvg-id="unimas31ktfo.us" tvg-name="LATINO: UNIMAS (KTFO) AUSTIN TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (KTFO) AUSTIN TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96756
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIMAS (WAMI) HOLLYWOOD FLORIDA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (WAMI) HOLLYWOOD FLORIDA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96758
-#EXTINF:-1 tvg-id="unimas28wfpa.us" tvg-name="LATINO: UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96760
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIMAS (WFUT) NEWARK NEW JERSEY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (WFUT) NEWARK NEW JERSEY
-http://mains.vip:2086/craigg/1Lurn7m3F1/96761
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (KAKW) KILLEEN TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KAKW) KILLEEN TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96735
-#EXTINF:-1 tvg-id="univision14kdtv.us" tvg-name="LATINO: UNIVISION (KDTV) SAN FRANCISCO CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KDTV) SAN FRANCISCO CALIFORNIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96736
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (KFTV) HANFORD CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KFTV) HANFORD CALIFORNIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96737
-#EXTINF:-1 tvg-id="univision34kmex.us" tvg-name="LATINO: UNIVISION (KMEX) LOS ANGELES CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KMEX) LOS ANGELES CALIFORNIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/98682
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (KTVW) FLAGSTAFF AZ" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KTVW) FLAGSTAFF AZ
-http://mains.vip:2086/craigg/1Lurn7m3F1/98683
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (KUVE) GREEN VALLEY AZ" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KUVE) GREEN VALLEY AZ
-http://mains.vip:2086/craigg/1Lurn7m3F1/98684
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (KUVN) GARLAND TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KUVN) GARLAND TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96741
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (KUVS) MODESTO CALIFORNIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KUVS) MODESTO CALIFORNIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96742
-#EXTINF:-1 tvg-id="univision41kwex.us" tvg-name="LATINO: UNIVISION (KWEX) SAN ANTONIO TX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KWEX) SAN ANTONIO TX
-http://mains.vip:2086/craigg/1Lurn7m3F1/98685
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (KXLN) ROSENBERG TEXAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KXLN) ROSENBERG TEXAS
-http://mains.vip:2086/craigg/1Lurn7m3F1/96744
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (WGBO) JOLIET IL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WGBO) JOLIET IL
-http://mains.vip:2086/craigg/1Lurn7m3F1/98686
-#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="LATINO: UNIVISION (WLTV) MIAMI FLORIDA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WLTV) MIAMI FLORIDA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96746
-#EXTINF:-1 tvg-id="univision61wqhs.us" tvg-name="LATINO: UNIVISION (WQHS) CLEVELAND OHIO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WQHS) CLEVELAND OHIO
-http://mains.vip:2086/craigg/1Lurn7m3F1/96747
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (WUVG) ATHENS GEORGIA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WUVG) ATHENS GEORGIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/96748
-#EXTINF:-1 tvg-id="univision34wuvg.us" tvg-name="LATINO: UNIVISION (WUVG) ATLANTA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WUVG) ATLANTA
-http://mains.vip:2086/craigg/1Lurn7m3F1/92469
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: UNIVISION (WXTV) PATERSON NEW JERSEY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WXTV) PATERSON NEW JERSEY
-http://mains.vip:2086/craigg/1Lurn7m3F1/96749
-#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="US : HBO LATINO FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo_latino.png" group-title="USA FULL HD",US : HBO LATINO FHD 1080
-http://mains.vip:2086/craigg/1Lurn7m3F1/64102
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : COMEDY CENTRAL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/comedycentral.png" group-title="LATINO TV",CL : COMEDY CENTRAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67194
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : DISNEY JR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" group-title="LATINO TV",CL : DISNEY JR
-http://mains.vip:2086/craigg/1Lurn7m3F1/67154
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : FOROTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="LATINO TV",CL : FOROTV
-http://mains.vip:2086/craigg/1Lurn7m3F1/67202
-#EXTINF:-1 tvg-id="foxsports2.cl" tvg-name="CL : FOX SPORTS 2" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/92x36_352/Source/44664/foxsports2ustv_colordark.png" group-title="LATINO TV",CL : FOX SPORTS 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/67169
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : HBO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png" group-title="LATINO TV",CL : HBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/67176
-#EXTINF:-1 tvg-id="" tvg-name="CL : HBO 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo2.png" group-title="LATINO TV",CL : HBO 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/67177
-#EXTINF:-1 tvg-id="" tvg-name="CL : HBO FAMILY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-family.png" group-title="LATINO TV",CL : HBO FAMILY
-http://mains.vip:2086/craigg/1Lurn7m3F1/67178
-#EXTINF:-1 tvg-id="" tvg-name="CL : HBO PLUS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/HBO_Plus_2000.svg/revision/latest/scale-to-width-down/200?cb=20100322090010" group-title="LATINO TV",CL : HBO PLUS
-http://mains.vip:2086/craigg/1Lurn7m3F1/67179
-#EXTINF:-1 tvg-id="" tvg-name="CL : HBO SIGNATURE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-signature.png" group-title="LATINO TV",CL : HBO SIGNATURE
-http://mains.vip:2086/craigg/1Lurn7m3F1/67180
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : HOLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/¡HOLA%21TVlogo.jpg/220px-¡HOLA%21TVlogo.jpg" group-title="LATINO TV",CL : HOLA TV
-http://mains.vip:2086/craigg/1Lurn7m3F1/67193
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL : MEGA" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="LATINO TV",CL : MEGA
-http://mains.vip:2086/craigg/1Lurn7m3F1/67186
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : NAT GEO" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ngeog-copy.png" group-title="LATINO TV",CL : NAT GEO
-http://mains.vip:2086/craigg/1Lurn7m3F1/67187
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : STUDIO UNIVERSAL" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="LATINO TV",CL : STUDIO UNIVERSAL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67208
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : TNT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tnt-16.png" group-title="LATINO TV",CL : TNT
-http://mains.vip:2086/craigg/1Lurn7m3F1/67203
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : TV CHILE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="LATINO TV",CL : TV CHILE
-http://mains.vip:2086/craigg/1Lurn7m3F1/67199
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : TYC SPORTS" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="LATINO TV",CL : TYC SPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/67173
-#EXTINF:-1 tvg-id="artv.cl" tvg-name="CL : WARNER CHANNEL" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINO TV",CL : WARNER CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67210
-#EXTINF:-1 tvg-id="" tvg-name="ES : CINE LATINO" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="SPANISH/MEXICAN TV",ES : CINE LATINO
-http://mains.vip:2086/craigg/1Lurn7m3F1/88694
+#EXTINF:-1 tvg-id="" tvg-name="C9N NOTICIAS HD" tvg-logo="https://www.television.com.py/wp-content/uploads/2017/04/C9N-logo1-620x350.png" group-title="NACIONALES PARAGUAY",C9N NOTICIAS HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/1
+#EXTINF:-1 tvg-id="" tvg-name="PARAGUAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="NACIONALES PARAGUAY",PARAGUAY TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/2
+#EXTINF:-1 tvg-id="" tvg-name="SUR TV" tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg" group-title="NACIONALES PARAGUAY",SUR TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/3
+#EXTINF:-1 tvg-id="" tvg-name="PARAVISION HD" tvg-logo="https://www.paravision.com.py/img/paravision-logo.jpg" group-title="NACIONALES PARAGUAY",PARAVISION HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/4
+#EXTINF:-1 tvg-id="" tvg-name="TELEFUTURO HD" tvg-logo="https://pbs.twimg.com/profile_images/620133846877650944/HASbePUQ_400x400.png" group-title="NACIONALES PARAGUAY",TELEFUTURO HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/5
+#EXTINF:-1 tvg-id="" tvg-name="UNICANAL" tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="NACIONALES PARAGUAY",UNICANAL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/6
+#EXTINF:-1 tvg-id="" tvg-name="UNICANAL HD" tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy.jpg" group-title="NACIONALES PARAGUAY",UNICANAL HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/7
+#EXTINF:-1 tvg-id="" tvg-name="SNT HD" tvg-logo="https://i2.wp.com/logoroga.com/wp-content/uploads/2017/10/snt-hd.png" group-title="NACIONALES PARAGUAY",SNT HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/8
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES PARAGUAY",EL TRECE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/9
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE HD" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES PARAGUAY",EL TRECE HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/10
+#EXTINF:-1 tvg-id="" tvg-name="LA TELE" tvg-logo="https://latele.com.py/wp-content/themes/latele/img/logo-latele.png" group-title="NACIONALES PARAGUAY",LA TELE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/11
+#EXTINF:-1 tvg-id="" tvg-name="NEXTPLAY FIESTA" tvg-logo="http://paraguayonline.net/wp-content/uploads/2019/07/fiestafm-e1562945220128.png" group-title="NACIONALES PARAGUAY",NEXTPLAY FIESTA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/12
+#EXTINF:-1 tvg-id="" tvg-name="NEXTPLAY RSE" tvg-logo="http://paraguayonline.net/wp-content/uploads/2019/08/rse.png" group-title="NACIONALES PARAGUAY",NEXTPLAY RSE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/14
+#EXTINF:-1 tvg-id="" tvg-name="NEXTPLAY ROMANTICA" tvg-logo="http://paraguayonline.net/wp-content/uploads/elementor/thumbs/laromanticaaa-obxs3p5lj520ben8m0loyphc3jwmqibs0i58j0mac0.png" group-title="NACIONALES PARAGUAY",NEXTPLAY ROMANTICA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/15
+#EXTINF:-1 tvg-id="" tvg-name="NEXTPLAY CENTRAL" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="NACIONALES PARAGUAY",NEXTPLAY CENTRAL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/16
+#EXTINF:-1 tvg-id="" tvg-name="FARRA PLAY" tvg-logo="http://www.farra.com.py/img/logos/farraplayminilogo.png" group-title="NACIONALES PARAGUAY",FARRA PLAY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/20
+#EXTINF:-1 tvg-id="" tvg-name="FARRA PLAY HD" tvg-logo="http://www.farra.com.py/img/logos/farraplayminilogo.png" group-title="NACIONALES PARAGUAY",FARRA PLAY HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/21
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="PELICULAS Y SERIES",HBO HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/25
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png" group-title="PELICULAS Y SERIES",HBO 2 HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/26
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/HBOFamilyHD.png" group-title="PELICULAS Y SERIES",HBO FAMILY HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/27
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://www.altice.com.do/sites/default/files/assets/images/logos_canales/HBOPlusHD.png" group-title="PELICULAS Y SERIES",HBO PLUS HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/28
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/HBO_Signature_HD.png" group-title="PELICULAS Y SERIES",HBO SIGNATURE HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/29
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action-hd_m.png" group-title="PELICULAS Y SERIES",FOX ACTION HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/30
+#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema-hd_m.png" group-title="PELICULAS Y SERIES",FOX CINEMA HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/31
+#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSIC HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="PELICULAS Y SERIES",FOX CLASSIC HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/32
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-comedy-hd_m.png" group-title="PELICULAS Y SERIES",FOX COMEDY HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/33
+#EXTINF:-1 tvg-id="" tvg-name="FOX FAMILY HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family-hd_m.png" group-title="PELICULAS Y SERIES",FOX FAMILY HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/34
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496832/FOX_Movies_HD.png" group-title="PELICULAS Y SERIES",FOX MOVIES HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/35
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png" group-title="PELICULAS Y SERIES",FOX SERIES
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/36
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1200px-FOX_HD.svg.png" group-title="PELICULAS Y SERIES",FOX HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/37
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="PELICULAS Y SERIES",FOX LIFE HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/38
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Cinecanal_HD_2016.png" group-title="PELICULAS Y SERIES",CINECANAL HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/39
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://w0.pngwave.com/png/64/751/cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-png-clip-art.png" group-title="PELICULAS Y SERIES",CINEMAX HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/40
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="PELICULAS Y SERIES",SPACE HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/41
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="PELICULAS Y SERIES",TCM
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/42
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png" group-title="PELICULAS Y SERIES",AXN HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/43
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://www.pngkey.com/png/detail/225-2259866_tnt-hd-europe-logo-2016-tnt-hd-logo.png" group-title="PELICULAS Y SERIES",TNT HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/44
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/318px-TNT_Serie_HD.svg.png" group-title="PELICULAS Y SERIES",TNT SERIES HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/45
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://img2.freepng.es/20180527/aqe/kisspng-universal-pictures-universal-channel-universal-tv-5b0a7724cfd3f0.0232975715274125168513.jpg" group-title="PELICULAS Y SERIES",UNIVERSAL CHANNEL HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/46
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="PELICULAS Y SERIES",STUDIO UNIVERSAL HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/47
+#EXTINF:-1 tvg-id="" tvg-name="ISAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="PELICULAS Y SERIES",ISAT
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/48
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" group-title="PELICULAS Y SERIES",TBS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/49
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="https://www.pngkit.com/png/detail/419-4197240_en-grillas-59c2a7ee7a1a0-fxmhd-fxm-hd-logo.png" group-title="PELICULAS Y SERIES",FXM HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/50
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PELICULAS Y SERIES",DE PELICULA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/51
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="PELICULAS Y SERIES",AMC HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/52
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="PELICULAS Y SERIES",SYFY HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/53
+#EXTINF:-1 tvg-id="" tvg-name="INTEGRACION TV" tvg-logo="https://dl.dropbox.com/s/dxrnisxl1ndtcd7/descarga.jpg?dl=0" group-title="NACIONALES PARAGUAY",INTEGRACION TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/55
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10" tvg-logo="https://dl.dropbox.com/s/wahdxcqg4xdlut9/images.png?dl=0" group-title="NACIONALES PARAGUAY",CANAL 10
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/56
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="PELICULAS Y SERIES",GOLDEN
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/57
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="PELICULAS Y SERIES",GOLDEN EDGE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/58
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://forounivers.com/uploads/monthly_2017_10/large.logo-golden-plus.png.d8b04c2467807f33fffcde0c425cf0c1.png" group-title="PELICULAS Y SERIES",GOLDEN PLUS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/59
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://www.pngitem.com/pimgs/m/41-418671_transparent-canal-clipart-sony-hd-logo-png-png.png" group-title="PELICULAS Y SERIES",SONY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/60
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/1200px-Warner_Channel_HD.svg.png" group-title="PELICULAS Y SERIES",WARNER HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/61
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e2634b53195e85806417/c42ac2c174a21da8fa138737bcacc9d6/img.png" group-title="PELICULAS Y SERIES",A&E
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/62
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png" group-title="PELICULAS Y SERIES",FX HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/63
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="INFANTILES",NICK
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/64
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="INFANTILES",NICKTOONS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/65
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="INFANTILES",NICKELODEON
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/66
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://img2.freepng.es/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="INFANTILES",CARTOON NETWORK
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/67
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="INFANTILES",TOONCAST
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/68
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",NATGEO KIDS HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/69
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="INFANTILES",DISNEY XD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/70
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://w7.pngwing.com/pngs/673/844/png-transparent-disney-junior-disney-channel-the-walt-disney-company-television-show-family-channel-nick-jr-television-text-logo.png" group-title="INFANTILES",DISNEY JR
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/71
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="INFANTILES",DISNEY CHANNEL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/72
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="PELICULAS Y SERIES",HBO POP
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/73
+#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA ARGENTINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="TODOS LOS PAISES",TV PUBLICA ARGENTINA HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/74
+#EXTINF:-1 tvg-id="" tvg-name="TN NOTICIAS HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tn_m.png" group-title="TODOS LOS PAISES",TN NOTICIAS HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/75
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="TODOS LOS PAISES",TELEFE ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/76
+#EXTINF:-1 tvg-id="" tvg-name="QUIERO MUSICA" tvg-logo="https://forounivers.com/uploads/monthly_2017_05/large.591fd0b67728d_QuieroMusica2017.png.d55edb4ccf7282e1e77d9e15019c0532.png" group-title="MUSICAS",QUIERO MUSICA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/77
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/300px-Glitzlogo.png" group-title="DOCUMENTALES",GLITZ
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/78
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA TV ARGENTINA" tvg-logo="https://www.cronicatv.com.ar/__export/1503431053000/sites/cronica/arte/imagenes-redes/Imagen-dummy.png" group-title="TODOS LOS PAISES",CRONICA TV ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/79
+#EXTINF:-1 tvg-id="" tvg-name="C5N ARGENTINA" tvg-logo="https://www.telefonoargentina.com/wp-content/uploads/2019/06/C5N.jpg" group-title="TODOS LOS PAISES",C5N ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/80
+#EXTINF:-1 tvg-id="" tvg-name="A24 ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="TODOS LOS PAISES",A24 ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/81
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV ARGENTINA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Am%C3%A9rica-TV-Argentina-en-vivo-Online.png" group-title="TODOS LOS PAISES",AMERICA TV ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/82
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE ARGENTINA" tvg-logo="https://www.elnueve.com.ar/wp-content/themes/elnueve-ned-theme/img/favicons/apple-touch-icon.png" group-title="TODOS LOS PAISES",EL NUEVE ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/83
+#EXTINF:-1 tvg-id="" tvg-name="LA RED CHILE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/La_Red_HD.png" group-title="TODOS LOS PAISES",LA RED CHILE HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/84
+#EXTINF:-1 tvg-id="" tvg-name="TVN CHILE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="TODOS LOS PAISES",TVN CHILE HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/86
+#EXTINF:-1 tvg-id="" tvg-name="MEGA CHILE HD" tvg-logo="https://cdn.elnortero.cl/sites/elnortero.cl/files/imagecache/380x285/imagen_noticia/nuevo-logo-mega_6.jpg" group-title="TODOS LOS PAISES",MEGA CHILE HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/87
+#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="TODOS LOS PAISES",CHILEVISION
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/88
+#EXTINF:-1 tvg-id="" tvg-name="13 HD CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/1200px-Canal_13_%28Chile%29_logo.svg.png" group-title="TODOS LOS PAISES",13 HD CHILE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/89
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE HD" tvg-logo="https://media.cnnchile.com/sites/2/2018/06/750px-CNN_Chile_Logo.svg_-740x430.png" group-title="TODOS LOS PAISES",CNN CHILE HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/90
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="DEPORTES",GOL PERU
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/91
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="DEPORTES",MOVISTAR DEPORTES PERU
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/92
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV PERU" tvg-logo="https://peru.mom-rsf.org/uploads/tx_lfrogmom/media/2037-205_import.png" group-title="TODOS LOS PAISES",LATINA TV PERU
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/93
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV PERU" tvg-logo="https://i.pinimg.com/originals/c3/1e/30/c31e30da8f77de0525307dcdf3c7fdb2.png" group-title="TODOS LOS PAISES",AMERICA TV PERU
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/95
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="TODOS LOS PAISES",TV PERU
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/97
+#EXTINF:-1 tvg-id="" tvg-name="IPE PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Identidad_Peruana_ipe_2016.png" group-title="TODOS LOS PAISES",IPE PERU
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/98
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV PERU" tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/e/f/csm_2156-205_company_import_3992472135.png" group-title="TODOS LOS PAISES",LATINA TV PERU
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/99
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV PERU HD" tvg-logo="https://cde.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-603x339-20342.jpg" group-title="TODOS LOS PAISES",AMERICA TV PERU HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/100
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png" group-title="TODOS LOS PAISES",CARACOL HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/101
+#EXTINF:-1 tvg-id="" tvg-name="RCN COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1280px-LogoNTyLR.svg.png" group-title="TODOS LOS PAISES",RCN COLOMBIA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/102
+#EXTINF:-1 tvg-id="" tvg-name="RCN TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/CanalRCNNovelas2019.png" group-title="TODOS LOS PAISES",RCN TELENOVELAS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/103
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",WIN SPORT
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/104
+#EXTINF:-1 tvg-id="" tvg-name="TRECE COLOMBIA" tvg-logo="https://pbs.twimg.com/profile_images/468573511573729280/qnzXHED7_400x400.jpeg" group-title="TODOS LOS PAISES",TRECE COLOMBIA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/105
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="DOCUMENTALES",HOLA TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/106
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBE BRASIL" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png" group-title="BRASIL",PREMIERE CLUBE BRASIL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/108
+#EXTINF:-1 tvg-id="" tvg-name="VTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="DEPORTES",VTV HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/109
+#EXTINF:-1 tvg-id="" tvg-name="VTV PLUS URUGUAY" tvg-logo="" group-title="DEPORTES",VTV PLUS URUGUAY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/110
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4 MONTECARLO URUGUAY" tvg-logo="https://i.pinimg.com/originals/64/ad/a9/64ada97b47c74a6e0c9ed6818579ee65.png" group-title="TODOS LOS PAISES",CANAL 4 MONTECARLO URUGUAY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/112
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="TODOS LOS PAISES",AZ MUNDO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/115
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="MUSICAS",BANDAMAX
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/117
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="TODOS LOS PAISES",UNICABLE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/118
+#EXTINF:-1 tvg-id="" tvg-name="TELERITMO" tvg-logo="https://forounivers.com/uploads/monthly_2017_04/large_TLR.png.65a9fe62bcb5d000eededd4a846ace58.png" group-title="MUSICAS",TELERITMO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/119
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/XHGC.png" group-title="TODOS LOS PAISES",CANAL 5 MEXICO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/122
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="PELICULAS Y SERIES",DISTRITO COMEDIA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/123
+#EXTINF:-1 tvg-id="" tvg-name="TL NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="TODOS LOS PAISES",TL NOVELAS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/124
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="DOCUMENTALES",EL GOURMET
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/125
+#EXTINF:-1 tvg-id="" tvg-name="ATB BOLIVIA" tvg-logo="https://img2.freepng.es/20180604/vkz/kisspng-lethbridge-atb-financial-mobile-banking-atb-entrep-atb-financial-5b15449ad326a9.6746686215281204748649.jpg" group-title="TODOS LOS PAISES",ATB BOLIVIA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/127
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="TODOS LOS PAISES",BOLIVISION
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/129
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA TV" tvg-logo="https://www.kindpng.com/picc/m/359-3591273_logo-bolivia-tv-png-transparent-png.png" group-title="TODOS LOS PAISES",BOLIVIA TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/130
+#EXTINF:-1 tvg-id="" tvg-name="TC MI CANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TODOS LOS PAISES",TC MI CANAL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/132
+#EXTINF:-1 tvg-id="" tvg-name="RTS ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="TODOS LOS PAISES",RTS ECUADOR
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/133
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Ecuador_TV.png" group-title="TODOS LOS PAISES",ECUADOR TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/134
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ACCION" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg" group-title="PELICULAS Y SERIES",MOVISTAR ACCION
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/136
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR COMEDIA" tvg-logo="https://vertelevision.tv/wp-content/uploads/2017/07/MComedia-150x150.png" group-title="PELICULAS Y SERIES",MOVISTAR COMEDIA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/138
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR FORMULA 1 HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png" group-title="DEPORTES",MOVISTAR FORMULA 1 HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/140
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES" tvg-logo="https://seriepolis.com/wp-content/uploads/2018/02/movistar-series-1.png" group-title="PELICULAS Y SERIES",MOVISTAR SERIES
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/141
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN INVESTIGACION ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Crimen_investigacion.png" group-title="DOCUMENTALES",CRIMEN INVESTIGACION ESP
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/142
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT" tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg" group-title="DEPORTES",TYC SPORT
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/143
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="DEPORTES",FOX SPORT HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/144
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORT 2 HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/145
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORT 3 HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/146
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 1 MEXICO" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="DEPORTES",FOX SPORT 1 MEXICO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/147
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORT 2 MEXICO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/148
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORT 3 MEXICO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/149
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://img2.freepng.es/20180703/aly/kisspng-espn-television-espn-extra-high-definition-video-lam-radio-hd-5b3af92faf0573.4773706515305915357169.jpg" group-title="DEPORTES",ESPN HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/150
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://4.bp.blogspot.com/-jgg3rYtjN84/U6yZaHHveaI/AAAAAAAAAWQ/LEvEonhYdS0/s1600/ESPN2.jpg" group-title="DEPORTES",ESPN 2 HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/151
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://espnpressroom.com/mexico/files/2014/05/espn-3-hd.jpg" group-title="DEPORTES",ESPN 3 HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/152
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS" tvg-logo="https://i.pinimg.com/originals/9b/02/7f/9b027f6ec161c26bcbdcbcc6dee50fd4.jpg" group-title="DEPORTES",ESPN PLUS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/153
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="DEPORTES",TNT SPORT HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/154
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",BEIN SPORT Ñ
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/155
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORT HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/156
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT PLUS" tvg-logo="https://www.pngfind.com/pngs/m/297-2974594_directv-sports-plus-logo-hd-png-download.png" group-title="DEPORTES",DIRECTV SPORT PLUS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/157
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="DEPORTES",UFC FIGHT PASS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/158
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discovery.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/159
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1229.png" group-title="DOCUMENTALES",DISCOVERY H&H
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/160
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGACION" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-id-hd_m.png" group-title="DOCUMENTALES",DISCOVERY INVESTIGACION
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/161
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/hn_discovery-hd-theater_m.png" group-title="DOCUMENTALES",DISCOVERY THEATER
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/162
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryturbo.png" group-title="DOCUMENTALES",DISCOVERY TURBO HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/163
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-civilization_m.png" group-title="DOCUMENTALES",DISCOVERY CIVILIZATION
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/164
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCIE" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryscience.png" group-title="DOCUMENTALES",DISCOVERY SCIENCIE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/165
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTALES",DISCOVERY WORLD HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/166
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/976px-History_Logo.svg.png" group-title="DOCUMENTALES",HISTORY HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/167
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="https://pluspng.com/img-png/nat-geo-vector-logo-png-national-geographic-channel-logo-png-pluspng-com-1900-national-geographic-channel-logo-1900.jpg" group-title="DOCUMENTALES",NATGEO HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/168
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES",NATGEO WILD HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/169
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",NATGEO KIDS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/170
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="TODOS LOS PAISES",TELEMUNDO HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/171
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD" tvg-logo="https://forounivers.com/uploads/monthly_2019_02/large.1474904628_CDFHD(2019).png.8507b3d517096b1aa0d800f026e8fd74.png" group-title="DEPORTES",CDF HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/173
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORT 2
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/174
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV HD BRASIL" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/sportv-2-png-1.png" group-title="BRASIL",SPORT TV HD BRASIL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/175
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASIL HD" tvg-logo="https://i0.pngocean.com/files/225/528/991/rede-globo-brazil-privately-held-company-pdf.jpg" group-title="BRASIL",GLOBO BRASIL HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/176
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE BRASIL HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/ufc-combate-png-3.png" group-title="BRASIL",COMBATE BRASIL HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/177
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="https://img2.freepng.es/20181122/jzv/kisspng-redetv-recife-logo-tv-cultura-5bf69ffacc3170.9778257915428894668364.jpg" group-title="BRASIL",REDE BRASIL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/178
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/MTV_HD_Logo_2015.png" group-title="MUSICAS",MTV HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/179
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="MUSICAS",MTV LIVE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/180
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://www.cromosmexico.com/blog/wp-content/uploads/2018/10/Captura-de-pantalla-2018-10-19-a-las-11.44.27-2000x1000.png" group-title="DOCUMENTALES",ANIMAL PLANET HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/181
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://i0.pngocean.com/files/724/805/183/canal-cinema-dynamite-cinematography-cinema-dinamita-portable-network-graphics-dynamite.jpg" group-title="PELICULAS Y SERIES",CINEMA DINAMITA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/182
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2015/11/10/991003EA-D7BC-415B-BA58-AE33EB4454F5/69.jpg" group-title="TODOS LOS PAISES",A3SERIES
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/184
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/687px-Antena3_Atresmedia.png" group-title="TODOS LOS PAISES",ANTENA 3 HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/185
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tlchd.png" group-title="DOCUMENTALES",DISCOVERY TLC
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/186
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="INFANTILES",BABY TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/192
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="INFANTILES",BOING
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/193
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="https://i0.pngocean.com/files/598/516/998/logo-disney-junior-nickelodeon-hd-the-walt-disney-company-television-channel-junior.jpg" group-title="INFANTILES",DISNEY JR HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/194
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="INFANTILES",BOOMERANG HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/195
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD ARGENTINA" tvg-logo="https://img2.freepng.es/20180703/vvr/kisspng-atlanta-hawks-nba-fox-sports-networks-sports-radio-lam-radio-hd-5b3af926bb3401.9465899415305915267668.jpg" group-title="DEPORTES",FOX SPORT HD ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/196
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 ARGENTINA" tvg-logo="https://img2.freepng.es/20180706/vuy/kisspng-fox-sports-2-television-channel-fox-sports-network-fox-sport-5b3fcd3ddd8e48.1690276115309079659075.jpg" group-title="DEPORTES",FOX SPORT 2 ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/197
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORT 3 ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/198
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",FOX SPORT PREMIUM HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/199
+#EXTINF:-1 tvg-id="" tvg-name="COCINA TV" tvg-logo="https://tvepg.eu/img/spain/logo/canal_cocina.png" group-title="DOCUMENTALES",COCINA TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/201
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOCUMENTALES",FOOD NETWORK
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/202
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Top_Latino.png" group-title="MUSICAS",TOP LATINO TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/204
+#EXTINF:-1 tvg-id="" tvg-name="TRECE ARGENTINA" tvg-logo="https://i0.pngocean.com/files/298/243/632/channel-13-argentina-television-channel-canal-a-special-guest-dj.jpg" group-title="TODOS LOS PAISES",TRECE ARGENTINA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/205
+#EXTINF:-1 tvg-id="" tvg-name="bob esponja" tvg-logo="" group-title="24/7 CANALES",bob esponja
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/206
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8 ANIMADO" tvg-logo="" group-title="24/7 CANALES",EL CHAVO DEL 8 ANIMADO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje el Perro Cobarde" tvg-logo="" group-title="24/7 CANALES",24/7 Coraje el Perro Cobarde
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama" tvg-logo="" group-title="24/7 CANALES",24/7 Futurama
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/212
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons " tvg-logo="" group-title="24/7 CANALES",24/7 Los Simpsons 
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/213
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hombres de Negro Serie Animada" tvg-logo="" group-title="24/7 CANALES",24/7 Hombres de Negro Serie Animada
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT" tvg-logo="" group-title="24/7 CANALES",24/7 Dragon Ball GT
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/215
+#EXTINF:-1 tvg-id="" tvg-name="daniel el travieso" tvg-logo="" group-title="24/7 CANALES",daniel el travieso
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/223
+#EXTINF:-1 tvg-id="" tvg-name="DORA Y SUS AAMIGOS EN LA CIUDAD" tvg-logo="" group-title="24/7 CANALES",DORA Y SUS AAMIGOS EN LA CIUDAD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/224
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de Mickey Mouse" tvg-logo="" group-title="24/7 CANALES",24/7 La Casa de Mickey Mouse
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/225
+#EXTINF:-1 tvg-id="" tvg-name="DRA JUGUETE" tvg-logo="" group-title="24/7 CANALES",DRA JUGUETE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/226
+#EXTINF:-1 tvg-id="" tvg-name="PAW PATROL" tvg-logo="" group-title="24/7 CANALES",PAW PATROL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/228
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png" group-title="TODOS LOS PAISES",CANAL DE LAS ESTRELLAS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/231
+#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME HD" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="PELICULAS Y SERIES",HBO EXTREME HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/232
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="PELICULAS Y SERIES",HBO MUNDI
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/233
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="BRASIL",ESPN BRASIL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/234
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="DEPORTES",TOROS TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/235
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PEZCA HD" tvg-logo="https://www.ewsat.com/img/CAZA_Y_PESCA.png" group-title="DEPORTES",CAZA Y PEZCA HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/236
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="https://img2.freepng.es/20180606/bzb/kisspng-nick-jr-too-nickelodeon-television-channel-nick-jr-5b18815419e005.682559311528332628106.jpg" group-title="INFANTILES",NICK JR HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/237
+#EXTINF:-1 tvg-id="" tvg-name="SBT BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT BRASIL HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/240
+#EXTINF:-1 tvg-id="" tvg-name="UNITEL BOLIVIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Unitel_Logo.png" group-title="TODOS LOS PAISES",UNITEL BOLIVIA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/241
+#EXTINF:-1 tvg-id="" tvg-name="RED PAT LA PAZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Red_PAT_Logo.png" group-title="TODOS LOS PAISES",RED PAT LA PAZ
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/242
+#EXTINF:-1 tvg-id="" tvg-name="la mascara animada" tvg-logo="" group-title="24/7 CANALES",la mascara animada
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/246
+#EXTINF:-1 tvg-id="" tvg-name="mortal kombat la serie" tvg-logo="" group-title="24/7 CANALES",mortal kombat la serie
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/247
+#EXTINF:-1 tvg-id="" tvg-name="JHONNY BRAVO" tvg-logo="" group-title="24/7 CANALES",JHONNY BRAVO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/249
+#EXTINF:-1 tvg-id="" tvg-name="cantinflas" tvg-logo="" group-title="24/7 CANALES",cantinflas
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/250
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA PLUS HD" tvg-logo="" group-title="24/7 CANALES",CINEMA PLUS HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/251
+#EXTINF:-1 tvg-id="" tvg-name="PINGUINOS DE MADAGASCAR" tvg-logo="" group-title="24/7 CANALES",PINGUINOS DE MADAGASCAR
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/252
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/dicoverykids.png" group-title="INFANTILES",DISCOVERY KIDS
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/263
+#EXTINF:-1 tvg-id="" tvg-name="TVS ENCARNACION HD" tvg-logo="http://tvs.com.py/wp-content/uploads/2018/12/logotvs.gif" group-title="NACIONALES PARAGUAY",TVS ENCARNACION HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/269
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BR HD" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/08/record_logo_a_l.jpg" group-title="TODOS LOS PAISES",RECORD BR HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/271
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="MUSICAS",MTV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/444
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA CANAL 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="TODOS LOS PAISES",ARGENTINA CANAL 26
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/446
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="https://i0.pngocean.com/files/959/723/784/brazil-globonews-television-channel-rede-globo-others.jpg" group-title="BRASIL",GLOBO BRASILIA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/462
+#EXTINF:-1 tvg-id="" tvg-name="PAT BOLIVIA" tvg-logo="" group-title="TODOS LOS PAISES",PAT BOLIVIA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/478
+#EXTINF:-1 tvg-id="" tvg-name="RTP BOLIVIA" tvg-logo="" group-title="TODOS LOS PAISES",RTP BOLIVIA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/479
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS HD" tvg-logo="" group-title="PELICULAS Y SERIES",PELICULAS HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/482
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO MAS HD" tvg-logo="" group-title="PELICULAS Y SERIES",MUNDO MAS HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/483
+#EXTINF:-1 tvg-id="" tvg-name="TELECANAL" tvg-logo="" group-title="TODOS LOS PAISES",TELECANAL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/484
+#EXTINF:-1 tvg-id="" tvg-name="TELECANAL CL2" tvg-logo="" group-title="TODOS LOS PAISES",TELECANAL CL2
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/487
+#EXTINF:-1 tvg-id="" tvg-name="LOCOMOTION" tvg-logo="" group-title="INFANTILES",LOCOMOTION
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/488
+#EXTINF:-1 tvg-id="" tvg-name="ETC TV CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="TODOS LOS PAISES",ETC TV CHILE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/652
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOCUH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRASIL",TELECINE TOCUH HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/653
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="BRASIL",TELECINE PREMIUM HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/654
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="BRASIL",TELECINE PIPOCA HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/655
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="BRASIL",TELECINE FUN HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/656
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="BRASIL",TELECINE CULT HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/657
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="https://img2.freepng.es/20180524/zoa/kisspng-rede-telecine-telecine-premium-telecine-action-tel-fm-latina-5b06486eddf4b9.3766242615271384149091.jpg" group-title="BRASIL",TELECINE ACTION HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/658
+#EXTINF:-1 tvg-id="" tvg-name="RUGBY TV PARAGUAY" tvg-logo="" group-title="NACIONALES PARAGUAY",RUGBY TV PARAGUAY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/672
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT HD F2" tvg-logo="https://pbs.twimg.com/profile_images/1149707191626215424/52bVwxV__400x400.png" group-title="NACIONALES PARAGUAY",TIGO SPORT HD F2
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/682
+#EXTINF:-1 tvg-id="" tvg-name="GEN TV HD" tvg-logo="https://www.gen.com.py/img/logo.svg" group-title="NACIONALES PARAGUAY",GEN TV HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/684
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN ANIMADO" tvg-logo="" group-title="24/7 CANALES",MR BEAN ANIMADO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/685
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS PARAGUAY HD" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="NACIONALES PARAGUAY",NOTICIAS PARAGUAY HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/686
+#EXTINF:-1 tvg-id="" tvg-name="BITME ANIME TV HD" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/26494f2/2147483647/strip/true/crop/958x720+161+0/resize/414x311!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe7%2Fea%2F18f387de47a4bd156e1fd1b9b024%2Fbitme.png" group-title="TODOS LOS PAISES",BITME ANIME TV HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/692
+#EXTINF:-1 tvg-id="" tvg-name="ABC TV HD PY" tvg-logo="https://www.abc.com.py/pf/resources/images/OG-Image-ABC.png?d=512" group-title="NACIONALES PARAGUAY",ABC TV HD PY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/693
+#EXTINF:-1 tvg-id="" tvg-name="VENUS RADIO TV HD" tvg-logo="https://www.venus.com.py/wp-content/themes/zox-news-venus/images/logos/logo-nav.png" group-title="NACIONALES PARAGUAY",VENUS RADIO TV HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/695
+#EXTINF:-1 tvg-id="" tvg-name="MI TV  HD" tvg-logo="" group-title="NACIONALES PARAGUAY",MI TV  HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/700
+#EXTINF:-1 tvg-id="" tvg-name="VISION VILLARICA HD" tvg-logo="" group-title="NACIONALES PARAGUAY",VISION VILLARICA HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/701
+#EXTINF:-1 tvg-id="" tvg-name="CFA TV HD" tvg-logo="" group-title="NACIONALES PARAGUAY",CFA TV HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/702
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="PELICULAS Y SERIES",PARAMOUNT CHANNEL HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/706
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT HD" tvg-logo="https://pbs.twimg.com/profile_images/1149707191626215424/52bVwxV__400x400.png" group-title="NACIONALES PARAGUAY",TIGO SPORT HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/711
+#EXTINF:-1 tvg-id="" tvg-name="FOX PSORT BRASIL" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="BRASIL",FOX PSORT BRASIL
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/714
+#EXTINF:-1 tvg-id="" tvg-name="LA TELE  URUGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="TODOS LOS PAISES",LA TELE  URUGUAY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/735
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 URUGUAY" tvg-logo="" group-title="TODOS LOS PAISES",CANAL 10 URUGUAY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/737
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT PLUS HD" tvg-logo="https://pbs.twimg.com/profile_images/1149707191626215424/52bVwxV__400x400.png" group-title="NACIONALES PARAGUAY",TIGO SPORT PLUS HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/739
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CONCIERTO TV" tvg-logo="https://paraguayonline.net/wp-content/uploads/2018/12/radioconcierto.jpg" group-title="NACIONALES PARAGUAY",RADIO CONCIERTO TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/744
+#EXTINF:-1 tvg-id="" tvg-name="RCC TV PARAGUAY" tvg-logo="https://scontent.fasu4-1.fna.fbcdn.net/v/t1.0-9/83557686_2478133329170334_5106550715753431040_n.png?_nc_cat=101&_nc_sid=09cbfe&_nc_ohc=kBypYMAtk3cAX8HZlVW&_nc_ht=scontent.fasu4-1.fna&oh=1342e2eab786553b23fb30dfe5a5c32e&oe=5F85400F" group-title="NACIONALES PARAGUAY",RCC TV PARAGUAY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/745
+#EXTINF:-1 tvg-id="" tvg-name="OBEDIRA TV" tvg-logo="https://cdn-profiles.tunein.com/s13903/images/logog.png?t=156708" group-title="NACIONALES PARAGUAY",OBEDIRA TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/746
+#EXTINF:-1 tvg-id="" tvg-name="TV LAMBARE" tvg-logo="" group-title="NACIONALES PARAGUAY",TV LAMBARE
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/747
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS DEL ESTE TV" tvg-logo="" group-title="NACIONALES PARAGUAY",SOMOS DEL ESTE TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/748
+#EXTINF:-1 tvg-id="" tvg-name="HASE TV RADIO" tvg-logo="" group-title="NACIONALES PARAGUAY",HASE TV RADIO
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/749
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SUCESO TV" tvg-logo="" group-title="NACIONALES PARAGUAY",RADIO SUCESO TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/750
+#EXTINF:-1 tvg-id="" tvg-name="LILA PLAY TV" tvg-logo="" group-title="NACIONALES PARAGUAY",LILA PLAY TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/751
+#EXTINF:-1 tvg-id="" tvg-name="TV HAYES PARAGUAY" tvg-logo="" group-title="NACIONALES PARAGUAY",TV HAYES PARAGUAY
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/752
+#EXTINF:-1 tvg-id="" tvg-name="RCN PARAGUAY TV" tvg-logo="" group-title="NACIONALES PARAGUAY",RCN PARAGUAY TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/753
+#EXTINF:-1 tvg-id="" tvg-name="COSTANERA FM TV" tvg-logo="" group-title="NACIONALES PARAGUAY",COSTANERA FM TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/754
+#EXTINF:-1 tvg-id="" tvg-name="CRISTAL TV FM" tvg-logo="" group-title="NACIONALES PARAGUAY",CRISTAL TV FM
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/755
+#EXTINF:-1 tvg-id="" tvg-name="PARTY FM TV" tvg-logo="" group-title="NACIONALES PARAGUAY",PARTY FM TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/756
+#EXTINF:-1 tvg-id="" tvg-name="CRISTOVISION" tvg-logo="" group-title="TODOS LOS PAISES",CRISTOVISION
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/757
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV" tvg-logo="" group-title="MUSICAS",RETRO TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/758
+#EXTINF:-1 tvg-id="" tvg-name="FIERA TV" tvg-logo="" group-title="NACIONALES PARAGUAY",FIERA TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/759
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT EVENTOS HD" tvg-logo="" group-title="NACIONALES PARAGUAY",TIGO SPORT EVENTOS HD
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/761
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMA TV" tvg-logo="" group-title="PELICULAS Y SERIES",EXTREMA TV
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/764
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DRAMA" tvg-logo="" group-title="PELICULAS Y SERIES",MOVISTAR DRAMA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/765
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LA LIGA" tvg-logo="" group-title="DEPORTES",BEIN SPORT LA LIGA
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/766
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="DOCUMENTALES",DMAX
+http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/767
 
